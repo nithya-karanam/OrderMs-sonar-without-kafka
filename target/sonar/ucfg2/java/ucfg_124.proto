@@ -1,0 +1,37 @@
+
+zcom.infosys.project.order.controller.OrderController#getspecificOrderDetails(I)Lcom/infosys/project/order/dto/CombinedDTO;|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaC C(+"1*ò
+1|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaD D(å
+â
+|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaD D(
+%0org.slf4j.Logger"__id*D*B6
+4com.infosys.project.order.controller.OrderController"
+logger¿¼
+|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaD D(:
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*$"
+ Orderdetails request for user {}*
+""2*info(Ljava/lang/String;Ljava/lang/Object;)‰
+†
+|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaF	 F(4
+%2.com.infosys.project.order.service.OrderService"__id*J*H6
+4com.infosys.project.order.controller.OrderController"
+orderService„
+|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaF	 F(6/
+%3)com.infosys.project.order.dto.CombinedDTO"tcom.infosys.project.order.service.OrderService#getSpecificOrderDetails(I)Lcom/infosys/project/order/dto/CombinedDTO;*6
+4
+%2.com.infosys.project.order.service.OrderService*
+""2getSpecificOrderDetails(I)"±
+|
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.javaF F(71
+/
+%3)com.infosys.project.order.dto.CombinedDTO:
+""B86
+4com.infosys.project.order.controller.OrderController

@@ -1,0 +1,16 @@
+
+Ecom.infosys.project.order.dto.OrderDTO#getAddress()Ljava/lang/String;n
+dC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/OrderDTO.javaM M("1*Í
+1n
+dC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/OrderDTO.javaN	 N(Ê
+Ç
+n
+dC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/OrderDTO.javaN	 N(
+%0java.lang.String"__id*7*5(
+&com.infosys.project.order.dto.OrderDTO"	
+address"Š
+n
+dC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/OrderDTO.javaN N(
+
+%0java.lang.StringB*(
+&com.infosys.project.order.dto.OrderDTO

@@ -1,0 +1,22 @@
+
+Pcom.infosys.project.order.controller.OrderController#getOrderAmountByBuyerId(I)D~
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.java¥ ¥(&"1*Þ
+1~
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.java¦ ¦(‹
+ˆ
+~
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.java¦ ¦(4
+%0.com.infosys.project.order.service.OrderService"__id*J*H6
+4com.infosys.project.order.controller.OrderController"
+orderService¿¼
+~
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.java¦ ¦(B
+%1double"Mcom.infosys.project.order.service.OrderService#getOrderAmountUsingBuyerId(I)D*6
+4
+%0.com.infosys.project.order.service.OrderService*
+""2getOrderAmountUsingBuyerId(I)"ˆ
+~
+rC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/controller/OrderController.java§ §(
+"":
+""B86
+4com.infosys.project.order.controller.OrderController

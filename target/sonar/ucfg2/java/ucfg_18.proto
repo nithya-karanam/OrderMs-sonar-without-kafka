@@ -1,0 +1,16 @@
+
+Ncom.infosys.project.order.dto.CombinedDTO#getProductsOrdered()Ljava/util/List;q
+gC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/CombinedDTO.java;! ;(3"1*Ý
+1q
+gC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/CombinedDTO.java<	 <(Ö
+Ó
+q
+gC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/CombinedDTO.java<	 <(
+%0java.util.List"__id*B*@+
+)com.infosys.project.order.dto.CombinedDTO"
+productsOrdered"‹
+q
+gC:/Users/91967/OrderMs-sonar-without-kafka/src/main/java/com/infosys/project/order/dto/CombinedDTO.java< <(
+
+%0java.util.ListB-+
+)com.infosys.project.order.dto.CombinedDTO

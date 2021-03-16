@@ -1,0 +1,7 @@
+organization=nithya-karanam
+projectKey=com.infosys.infytel:OrderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18187
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.infytel%3AOrderMS
+ceTaskId=AXg6SvKAg6cyG17R5mfX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg6SvKAg6cyG17R5mfX
